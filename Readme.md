@@ -82,7 +82,7 @@ civic.honk_horn()   # output -> the car of this make and model - Honk! Honk!
 
 At Large and Most Importantly We give Glory to God!!!:
 
-and A thank you 🤭😉 to Group One Members. 
+also A thank you 🤭😉 to Group One Members. 
 
 
 
